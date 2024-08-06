@@ -2,3 +2,7 @@ Chocolate Cake
 
 Chocolate
 Flour
+Eggs
+Butter
+Sugar
+Baking Powder
